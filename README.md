@@ -1,4 +1,4 @@
-# toad_competition_experiment
+# toad_competition_experiment_thesis
 
 For Roseanna Gamlen-Greene's thesis. 
 Cite: Gamlen-Greene, R. 2022. The ecology, distribution and population genetics of amphibians on Haida Gwaii, British Columbia. PhD thesis. University of British Columbia 
